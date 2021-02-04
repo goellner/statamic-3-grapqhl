@@ -1,0 +1,12 @@
+title: Blog
+template: default
+layout: layout
+mount: f6ab1f98-67e7-424f-b28f-5546f63022f5
+taxonomies:
+  - tags
+revisions: false
+date: true
+sort_dir: asc
+date_behavior:
+  past: public
+  future: private
