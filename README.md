@@ -1,5 +1,8 @@
 <p align="center"><img src="https://statamic.com/assets/branding/Statamic-Logo+Wordmark-Rad.svg" width="400" alt="Statamic Logo" /></p>
 
+## SETUP
+
+create `graphql.test` with valet and set webdirectory to the `public` folder
 ## About Statamic 3
 
 Statamic 3 is the flat-first, Laravel + Git powered CMS designed for building beautiful, easy to manage websites.
