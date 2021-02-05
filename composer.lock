@@ -3571,16 +3571,16 @@
         },
         {
             "name": "statamic/cms",
-            "version": "v3.1.0-alpha.1",
+            "version": "v3.1.0-alpha.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/statamic/cms.git",
-                "reference": "255eb33591245ea5afef33a9d113fd376f2660d9"
+                "reference": "60e0dc631fee1e7c2008338a77828e01e90c9edd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/statamic/cms/zipball/255eb33591245ea5afef33a9d113fd376f2660d9",
-                "reference": "255eb33591245ea5afef33a9d113fd376f2660d9",
+                "url": "https://api.github.com/repos/statamic/cms/zipball/60e0dc631fee1e7c2008338a77828e01e90c9edd",
+                "reference": "60e0dc631fee1e7c2008338a77828e01e90c9edd",
                 "shasum": ""
             },
             "require": {
@@ -3648,7 +3648,7 @@
             ],
             "support": {
                 "issues": "https://github.com/statamic/cms/issues",
-                "source": "https://github.com/statamic/cms/tree/v3.1.0-alpha.1"
+                "source": "https://github.com/statamic/cms/tree/v3.1.0-alpha.2"
             },
             "funding": [
                 {
@@ -3656,7 +3656,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2021-02-02T15:33:49+00:00"
+            "time": "2021-02-04T21:45:59+00:00"
         },
         {
             "name": "statamic/stringy",
@@ -6629,16 +6629,16 @@
         },
         {
             "name": "webonyx/graphql-php",
-            "version": "v14.5.0",
+            "version": "v14.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/webonyx/graphql-php.git",
-                "reference": "115a20e419439a27092788cdf36f1ac5f0fa429b"
+                "reference": "3af8b92d07e0d7a9085c0b83daf86beaeb76f092"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webonyx/graphql-php/zipball/115a20e419439a27092788cdf36f1ac5f0fa429b",
-                "reference": "115a20e419439a27092788cdf36f1ac5f0fa429b",
+                "url": "https://api.github.com/repos/webonyx/graphql-php/zipball/3af8b92d07e0d7a9085c0b83daf86beaeb76f092",
+                "reference": "3af8b92d07e0d7a9085c0b83daf86beaeb76f092",
                 "shasum": ""
             },
             "require": {
@@ -6683,7 +6683,7 @@
             ],
             "support": {
                 "issues": "https://github.com/webonyx/graphql-php/issues",
-                "source": "https://github.com/webonyx/graphql-php/tree/v14.5.0"
+                "source": "https://github.com/webonyx/graphql-php/tree/v14.5.1"
             },
             "funding": [
                 {
@@ -6691,7 +6691,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2021-01-23T12:52:35+00:00"
+            "time": "2021-02-05T10:51:56+00:00"
         },
         {
             "name": "wilderborn/partyline",
@@ -6959,16 +6959,16 @@
         },
         {
             "name": "facade/ignition",
-            "version": "2.5.10",
+            "version": "2.5.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/facade/ignition.git",
-                "reference": "98154e8b991fb616304c213cd405299ffedc26f5"
+                "reference": "e91d67353054bf827c64687fcac5ea44e4dcec54"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/facade/ignition/zipball/98154e8b991fb616304c213cd405299ffedc26f5",
-                "reference": "98154e8b991fb616304c213cd405299ffedc26f5",
+                "url": "https://api.github.com/repos/facade/ignition/zipball/e91d67353054bf827c64687fcac5ea44e4dcec54",
+                "reference": "e91d67353054bf827c64687fcac5ea44e4dcec54",
                 "shasum": ""
             },
             "require": {
@@ -7032,7 +7032,7 @@
                 "issues": "https://github.com/facade/ignition/issues",
                 "source": "https://github.com/facade/ignition"
             },
-            "time": "2021-02-02T10:15:48+00:00"
+            "time": "2021-02-05T12:52:11+00:00"
         },
         {
             "name": "filp/whoops",
